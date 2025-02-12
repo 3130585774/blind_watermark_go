@@ -1,0 +1,6 @@
+github.com/zedseven/bch v0.0.0-20200706093311-59cfadabc519 h1:HKs9up82kKfBd6EMDUL/KjqnncZrrCMqdz0X3Gv14Fw=
+github.com/zedseven/bch v0.0.0-20200706093311-59cfadabc519/go.mod h1:0AuxvYpmyF88n0t6mPg47JyoNQuAfJWPAcYjxeFTzvs=
+golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa h1:FRnLl4eNAQl8hwxVVC17teOw8kdjVDVAiFMtgUdTSRQ=
+golang.org/x/exp v0.0.0-20231110203233-9a3e6036ecaa/go.mod h1:zk2irFbV9DP96SEBUUAy67IdHUaZuSnrz1n472HUCLE=
+gonum.org/v1/gonum v0.15.1 h1:FNy7N6OUZVUaWG9pTiD+jlhdQ3lMP+/LcTpJ6+a8sQ0=
+gonum.org/v1/gonum v0.15.1/go.mod h1:eZTZuRFrzu5pcyjN5wJhcIhnUdNijYxX1T2IcrOGY0o=
